@@ -1,3 +1,5 @@
 I have created file in br1 the firstNewFileInbr1.txt
 the file updated in branch2
 chenhed for resolved #1
+
+this changes have merged to master and closed issue #1

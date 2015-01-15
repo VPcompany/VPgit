@@ -1,1 +1,2 @@
 I have created file in br1 the firstNewFileInbr1.txt
+the file updated in branch2
